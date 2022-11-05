@@ -471,6 +471,7 @@ fimages {
 .salon-get-in-touch .wrapper {
     width: 980px;
     padding: 2% 2%;
+    flex-wrap: wrap;
     background-color: #e91e63;
 }
 .salon-get-in-touch .wrapper article {

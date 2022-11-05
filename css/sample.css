@@ -332,6 +332,7 @@ fimages {
 #gold-get-touch .wrapper {
     background-color: #e91e6363 !important;
     margin: 10px auto;
+    flex-wrap: wrap;
 }
 /*========================
 			 GOLD POROCESS

@@ -125,7 +125,7 @@ if(servLayerLinks != null && serviceAsides != null){
 /* ========================= STOP TIMER ============= */
 /* =============================================================== */
 // Set the date we're counting down to
-const countDownDate = new Date("Nov 7, 2022 15:30:59").getTime();
+const countDownDate = new Date("Nov 7, 2022 11:30:59").getTime();
 
 // Update the count down every 1 second
 let x = setInterval(function() {
